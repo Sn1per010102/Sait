@@ -1,3 +1,4 @@
+@import url('https://img.freepik.com/free-photo/html-system-for-website-concept_23-2150376770.jpg?size=626&ext=jpg&ga=GA1.1.1477466969.1702927958&semt=ais');
 .proI 
 {
  font-size: small;
@@ -14,5 +15,5 @@
  flex-direction: row;
  justify-content: space-evenly;
  flex-wrap: nowrap;
- 
+ background: url('https://img.freepik.com/free-photo/html-system-for-website-concept_23-2150376770.jpg?size=626&ext=jpg&ga=GA1.1.1477466969.1702927958&semt=ais')
 }
