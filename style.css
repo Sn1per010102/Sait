@@ -19,5 +19,9 @@
 
 .imgheader 
 {
-    background: url('https://img.freepik.com/free-photo/html-system-for-website-concept_23-2150376770.jpg?size=626&ext=jpg&ga=GA1.1.1477466969.1702927958&semt=ais')
+    background: url('https://img.freepik.com/free-photo/html-system-for-website-concept_23-2150376770.jpg?size=626&ext=jpg&ga=GA1.1.1477466969.1702927958&semt=ais');
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+    background-position: center center; 
 }
