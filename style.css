@@ -3,7 +3,7 @@
 {
  font-size: 13px;
  font-family: verdana;
- color: white;
+ color: black;
  border: 2px solid white;
  border-radius: 20px;
  
@@ -17,8 +17,8 @@
  justify-content: flex-end;
  flex-wrap: nowrap;
 }
-.header
+.headerbase
 {
     background: url('https://img.freepik.com/free-photo/html-system-for-website-concept_23-2150376770.jpg?size=626&ext=jpg&ga=GA1.1.1477466969.1702927958&semt=ais');
-    
+
 }
