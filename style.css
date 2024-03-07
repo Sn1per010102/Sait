@@ -17,7 +17,7 @@
  flex-direction: row;
  justify-content: flex-end;
  flex-wrap: nowrap;
- justify-content: space-around;
+ margin: 20px;
 }
 
 .imgheader 
@@ -26,5 +26,5 @@
     background-size: cover;
     background-size: contain;
     background-position: center center; 
-    opacity: .4;
+    opacity: .5;
 }
