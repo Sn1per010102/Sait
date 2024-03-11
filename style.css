@@ -1,3 +1,4 @@
+@import url("https://ibb.co/R9qBCtm");
 *{
     margin: 0;
     padding: 0;
@@ -28,10 +29,7 @@
 
 .imgheader 
 {
-    background: url('Image.jpg');
+    background: url('https://ibb.co/R9qBCtm');
     background-size: cover; 
-    background-position: center center; 
-    
-    
-    
+    background-position: center center;   
 }
