@@ -33,3 +33,21 @@
     background-size: cover; 
     background-position: center center;   
 }
+
+
+
+.obomne 
+{
+ display: flex;
+ flex-wrap: wrap;
+ flex-direction: column;
+ justify-content: center;
+
+}
+
+.body 
+{
+    font-size: medium;
+    font-family: verdana;
+    color: black;
+}
