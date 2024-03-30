@@ -1,8 +1,9 @@
-
 *{
     margin: 0;
     padding: 0;
+    
 }
+
 .proI 
 {
  font-size: medium;
@@ -12,9 +13,6 @@
  border-radius: 10%;
  padding: 10px;
  margin-right: 250px;
- 
- 
- 
 }
 
 .Basehead 
@@ -23,8 +21,6 @@
  flex-direction: row;
  justify-content: flex-end;
  flex-wrap: nowrap;
-
- 
 }
 
 .imgheader 
@@ -36,13 +32,12 @@
 
 
 
-.obomne 
+.columns-1
 {
- display: flex;
- flex-wrap: wrap;
- flex-direction: column;
- justify-content: center;
-
+ margin-top: 30px;
+ margin-left: 80px;
+ width: 300px;
+ font-size: large;
 }
 
 .body 
@@ -50,4 +45,28 @@
     font-size: medium;
     font-family: verdana;
     color: black;
+    
+}
+
+
+
+.text 
+{
+ border: 2px solid rgb(5, 20, 223);
+ border-radius: 20px;
+ padding: 15px;
+ background-color: rgba(62, 151, 253, 0.096);
+ text-decoration: none;
+}
+
+.Vedenie 
+{
+display: flex;
+flex-wrap: nowrap;
+flex-direction: row;
+}
+
+.columns-2 
+{
+
 }
