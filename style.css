@@ -13,6 +13,8 @@
  border-radius: 10%;
  padding: 10px;
  margin-right: 250px;
+ user-select: none;
+ cursor: pointer;
 }
 
 .Basehead 
@@ -35,7 +37,7 @@
 .columns-1
 {
  margin-top: 30px;
- margin-left: 80px;
+ margin-left: 200px;
  width: 300px;
  font-size: large;
 }
@@ -68,5 +70,30 @@ flex-direction: row;
 
 .columns-2 
 {
+    margin-top: 35px;
+    margin-left: 40px;
+    width: 800px;
+    font-size: large;
+    
+}
+.text2 
+{
+    
+    padding: 25px;
+    background-color: rgba(62, 151, 253, 0.096);
+    text-decoration: none;
+}
+
+.tx
+{
+    background-color: none;
+    border: none;
+    
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
 
 }
+
